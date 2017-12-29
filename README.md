@@ -1,5 +1,9 @@
-# cra 1.3
+# from std-cra
 
-## react router 4
+## (react router /apollo) 
 
-## apollo 2
+## auth,adminlte
+
+## eject,cdn
+
+## router code split

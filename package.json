@@ -1,5 +1,5 @@
 {
-  "name": "std-cra",
+  "name": "std-react1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,6 +20,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "commit": "git add . && git commit -m'mod'"
+    "push": "git add . && git commit -m'mod' && git push"
   }
 }
